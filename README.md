@@ -30,4 +30,4 @@ The program must rigorously validate all user inputs:
 
 ## 🛠️ Project Demonstration
 
-![Project Demonstration](gif/chess_play.gif)
+<img src="gif/chess_play.gif" alt="Project Demonstration" width="600" />
