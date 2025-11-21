@@ -9,8 +9,6 @@ The goal of the program is to determine which black pieces a single white piece 
 
 **🐍 Python library:** `tabulate`
 
-![Project Demonstration](gif/chess_play.gif)
-
 ## 🎯 Core Functionality
 
 The program must execute a three-step process:
@@ -29,3 +27,5 @@ The program must rigorously validate all user inputs:
 * **Black Piece Limit:** must accept a minimum of one and a maximum of sixteen black figures.
 * **"Done" Command:** the user can only enter "done" to stop adding pieces after at least one black piece has been successfully added to the board.
 * **Final Output:** the program must display either a list of all capturable black pieces and their positions, or a message clearly stating that no captures are possible.
+
+![Project Demonstration](gif/chess_play.gif)
