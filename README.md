@@ -9,6 +9,8 @@ The goal of the program is to determine which black pieces a single white piece 
 
 **🐍 Python library:** `tabulate`
 
+![Project Demonstration](gif/chess_play.gif)
+
 ## 🎯 Core Functionality
 
 The program must execute a three-step process:
