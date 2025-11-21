@@ -28,4 +28,6 @@ The program must rigorously validate all user inputs:
 * **"Done" Command:** the user can only enter "done" to stop adding pieces after at least one black piece has been successfully added to the board.
 * **Final Output:** the program must display either a list of all capturable black pieces and their positions, or a message clearly stating that no captures are possible.
 
+## 🛠️ Project Demonstration
+
 ![Project Demonstration](gif/chess_play.gif)
