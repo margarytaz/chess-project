@@ -17,7 +17,7 @@ The program must execute a three-step process:
 * **Black Pieces Input:** program allows the user to input between 1 and 16 black figures and their positions (e.g., pawn d5), stopping when the user enters "done" or when 16 black figures have been added to the board. 
 * **Determine Captures:** Based on standard chess movement rules, the program returns a list of all black pieces and their positions that are currently capturable by the single white piece. If no capturable pieces available, the program returns a message clearly stating that no captures are possible.
 
-## 🔒 Key Requirements & Validation
+## 🔒 Key Requirements & Input Validation
 
 The program must rigorously validate all user inputs:
 
